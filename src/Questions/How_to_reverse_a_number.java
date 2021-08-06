@@ -7,7 +7,7 @@ public class How_to_reverse_a_number {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
  
-		int number=16461;
+		int number=16001;
 		int num=number;
 		int reversenumber=0;
 		ArrayList<Integer>n=new ArrayList<Integer>();
