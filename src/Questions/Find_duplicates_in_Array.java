@@ -14,17 +14,14 @@ public class Find_duplicates_in_Array {
 		{
 			if(array[i]==array[j]) {
 				System.out.println("Duplicate number is--->"+array[i]);
-			if(array[i]==1)
-			{
-				counter++;
-			}
+			
 			}
 		   
 			
 		}
 	}
 	
-		System.out.println(counter);
+		
 		
 }
 
